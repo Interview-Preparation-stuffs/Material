@@ -1,0 +1,12 @@
+dummy WSDL:
+http://www.thomas-bayer.com/axis2/services/BLZService?wsdl
+
+DOCX-Gen-URL:
+http://tomi.vanek.sk/index.php?page=wsdl-viewer
+
+
+interface BLZServicePortType{
+
+     getBankResponse getBank();
+}
+
